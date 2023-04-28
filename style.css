@@ -387,8 +387,8 @@ span {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     align-items: center;
-    left: 20%;
-    right: 20%;
+    left: 10%;
+    right: 10%;
     gap: 5.5rem;
 }
 
