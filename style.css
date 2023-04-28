@@ -394,7 +394,7 @@ span {
 
 .portfolio-container .portfolio-box {
     position: relative;
-    left: 5%;
+    left: 3.5%;
     display: flex;
     border-radius: 2rem;
     box-shadow: 0 0 1rem rgba(0, 0, 0, .1);
